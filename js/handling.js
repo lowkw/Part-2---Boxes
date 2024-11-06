@@ -10,7 +10,7 @@ function initialise() {
     red.style.top = "0";    
     red.style.left = "0";    
     green.style.backgroundColor = "#ffff";
-};
+}
 
 function btn6Clicked() { //Last button function here
     "use strict";
